@@ -5,7 +5,7 @@
 
   <!-- Typing SVG -->
   <a href="https://github.com/kushalpatel8">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Full-Stack+Developer;AI/ML Engineer;Agentic+AI+Developer;450%2B+LeetCode+Problems+Solved;Passionate+Problem+Solver;Building+Modern+Web+Applications" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Full-Stack+Developer;AI/ML+Engineer;Agentic+AI+Developer;450%2B+LeetCode+Problems+Solved;Passionate+Problem+Solver;Building+Modern+Web+Applications" alt="Typing SVG" />
   </a>
 
   <p align="center">
