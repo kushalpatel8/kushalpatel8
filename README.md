@@ -130,7 +130,7 @@
 
 ### 💼 Experience
 
-#### **Web Development Intern** — *MarsMeta Tech* `(Jun 2026 – Aug 2026 | Remote)`
+#### **Web Development Intern** — *MarsMeta Tech* `(Jun 2026 – Aug 2026 | Hybrid)`
 - Designed and implemented frontend and backend features for production web applications, collaborating with cross-disciplinary teams to translate ambiguous requirements into working solutions.
 - Built and debugged RESTful APIs and server-side logic, focusing on correctness, performance, and maintainability under production constraints.
 - Worked in an agile, remote-first workflow, delivering iterative features on schedule while maintaining code quality through code review and testing.
