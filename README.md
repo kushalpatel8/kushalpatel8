@@ -5,7 +5,7 @@
 
   <!-- Typing SVG -->
   <a href="https://github.com/kushalpatel8">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Full-Stack+Developer;Agentic+AI+Developer;400%2B+LeetCode+Problems+Solved;Passionate+Problem+Solver;Building+Modern+Web+Applications" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Full-Stack+Developer;AI/ML Engineer;Agentic+AI+Developer;450%2B+LeetCode+Problems+Solved;Passionate+Problem+Solver;Building+Modern+Web+Applications" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -42,7 +42,7 @@
 
   <br/>
 
-  > *Results-driven Information Technology student with hands-on experience building full-stack applications and agentic AI systems. Strong foundation in Data Structures, Algorithms, and Object-Oriented Programming with 400+ problems solved on LeetCode. Actively seeking Software Developer / Software Engineering internship or entry-level opportunities.*
+  > *Results-driven Information Technology student with hands-on experience building full-stack applications and agentic AI systems. Strong foundation in Data Structures, Algorithms, and Object-Oriented Programming with 450+ problems solved on LeetCode. Actively seeking Software Developer / Software Engineering internship or entry-level opportunities.*
 
 </div>
 
@@ -52,7 +52,7 @@
 
 - 🎓 **Education:** Pursuing B.Tech in Information Technology at **IMS Engineering College, Ghaziabad** (CGPA: 8.17/10)
 - 💼 **Experience:** Former Web Development Intern at **MarsMeta Tech**
-- 🧠 **Problem Solving:** Solved **400+ problems on LeetCode** with strong core CS fundamentals
+- 🧠 **Problem Solving:** Solved **450+ problems on LeetCode** with strong core CS fundamentals
 - 📍 **Location:** Ghaziabad, Uttar Pradesh, India
 - 📫 **Contact:** [pkushal649@gmail.com](mailto:pkushal649@gmail.com)
 
@@ -98,6 +98,8 @@
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
       <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white" alt="Mongoose" />
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+      <img src="https://img.shields.io/badge/Vector_DB-0EA5E9?style=flat-square" alt="Vector DB" />
     </td>
   </tr>
   <tr>
@@ -149,7 +151,7 @@
 
 ### 🏆 Achievements & Certifications
 
-- 🧩 **400+ Problems Solved on LeetCode** with focused practice in Data Structures and Algorithms
+- 🧩 **450+ Problems Solved on LeetCode** with focused practice in Data Structures and Algorithms
 - 📜 **Data Structures and Algorithms with C++ Certification** – *Physics Wallah Skills*
 - 📜 **Full Stack Web Development Certification** – *Physics Wallah Skills*
 
