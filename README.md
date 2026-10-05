@@ -1,18 +1,48 @@
 <div align="center">
 
-# Hi there, I'm Kushal Patel 👋
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,14,26&height=220&section=header&text=Kushal%20Patel&fontSize=52&fontAlignY=35&animation=fadeIn" width="100%" alt="Header" />
 
-### 🚀 Aspiring Software Engineer | Full-Stack & Agentic AI Developer
+  <!-- Typing SVG -->
+  <a href="https://github.com/kushalpatel8">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Full-Stack+Developer;Agentic+AI+Developer;400%2B+LeetCode+Problems+Solved;Passionate+Problem+Solver;Building+Modern+Web+Applications" alt="Typing SVG" />
+  </a>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=kushalpatel8&color=007ec6&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/kushalpatel8)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kushal-patel-03a944300/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kushalpatel-portfolio.vercel.app/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/kushal_patel_kp/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pkushal649@gmail.com)
+  <p align="center">
+    <b>Turning ideas into scalable, efficient, and impactful digital experiences.</b>
+  </p>
 
-<br/>
+  <!-- Social Badges -->
+  <p align="center">
+    <a href="https://www.linkedin.com/in/kushal-patel-03a944300/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    &nbsp;
+    <a href="https://kushalpatel-portfolio.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
+    &nbsp;
+    <a href="https://leetcode.com/u/kushal_patel_kp/" target="_blank">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/kushalpatel8" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    &nbsp;
+    <a href="mailto:pkushal649@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
 
-> *Results-driven Information Technology student with hands-on experience building full-stack applications and agentic AI systems. Strong foundation in Data Structures, Algorithms, and Object-Oriented Programming with 400+ problems solved on LeetCode. Actively seeking Software Developer / Software Engineering internship or entry-level opportunities.*
+  <!-- Profile Views -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=kushalpatel8&style=flat-square&color=0284c7" alt="Profile Views" />
+  </p>
+
+  <br/>
+
+  > *Results-driven Information Technology student with hands-on experience building full-stack applications and agentic AI systems. Strong foundation in Data Structures, Algorithms, and Object-Oriented Programming with 400+ problems solved on LeetCode. Actively seeking Software Developer / Software Engineering internship or entry-level opportunities.*
 
 </div>
 
@@ -150,11 +180,28 @@
 
 ### 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kushal-patel-03a944300/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://kushalpatel-portfolio.vercel.app/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/kushal_patel_kp/)
-[![Email](https://img.shields.io/badge/Email-pkushal649%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pkushal649@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/kushal-patel-03a944300/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://kushalpatel-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/kushal_patel_kp/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  &nbsp;
+  <a href="mailto:pkushal649@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ⭐ *Thank you for visiting my profile! Feel free to explore my repositories or reach out to connect.*
 
+<!-- Footer Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,14,26&height=100&section=footer" width="100%" alt="Footer" />
+
 </div>
+
